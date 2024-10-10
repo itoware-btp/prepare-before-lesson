@@ -12,9 +12,11 @@
 2. 自行下载并安装Postman软件[https://www.postman.com/downloads/](https://www.postman.com/downloads/)（建议在本地电脑上安装该软件，如果公司电脑有管控不允许安装软件，后续会演示在线版本[https://web.postman.co/workspace/btp_training_202410~23e87d4f-2948-406b-904c-924f9410fefb/overview](https://web.postman.co/workspace/btp_training_202410~23e87d4f-2948-406b-904c-924f9410fefb/overview)）
 3. 在这里下载课程所需要的软件包[https://cloud.189.cn/web/share?code=eQRJrmFBba6f](https://cloud.189.cn/web/share?code=eQRJrmFBba6f)（访问码：8fmf）
 
+## 3. 课程代码仓库
 
+Github的注册邮箱发送给老师之后，会分配课程仓库的权限，之后即可打开[课程代码仓库](https://github.com/itoware-btp/btp_training_202410)
 
-## 3. Github打不开时的解决办法
+## 4. Github打不开时的解决办法
 
 如果Github打不开，按照以下方式手动修改电脑的Host文件：
 Windows系统：打开 C:\Windows\System32\drivers\etc 找到hosts文件，增加以下内容
